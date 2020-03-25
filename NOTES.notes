@@ -12,8 +12,8 @@
 //25.03.2020
 TODO:
 [√] useState do Roota i uzycie useContext 
-[ ] commit
-[ ] 
+[√] commit
+[ ] przypomnieć sobie useEffect i zastosować najpierw przy Recipes
 [ ] commit
 [ ] 
 [ ] commit
