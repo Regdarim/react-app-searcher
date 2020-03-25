@@ -1,0 +1,54 @@
+! CEL !
+-= Stworzyć appke =-
+
+
+
+//25.03.2020
+TODO:
+[ ] zaimportować useState i uzyc useContext
+[ ] commit
+[ ] 
+[ ] commit
+[ ] 
+[ ] commit
+[ ] 
+[ ] commit
+
+
+
+
+
+*PYTANIA*
+
+
+
+*OBSERWACJE*
+ // W GifSearch.js nie portafiłem wyświetlić gifInput bez useState
+ // robiłem const gifInput = e.target.gifInput.value; a potem chciałem przesłać to w {gifSearch.gifInput}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
