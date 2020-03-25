@@ -1,11 +1,17 @@
-! CEL !
--= Stworzyć appke =-
+! Zadanie -  Stworzyć appke searcher !
+= bedziepokazywala gify ktore sie wyszuka =
+
+!PO CO?!
+= przypomnieć sobie tworzenie appek od początku szczególnie routing  =
+= poćwiczyć useState useContext useEffect =
+
+= nauczyć się podstaw styled components =
 
 
 
 //25.03.2020
 TODO:
-[ ] zaimportować useState i uzyc useContext
+[√] useState do Roota i uzycie useContext 
 [ ] commit
 [ ] 
 [ ] commit
